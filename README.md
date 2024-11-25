@@ -1,7 +1,7 @@
-<h1 align="center">Hello, I'm Pato 👋</h1>
+<h1 align="center">Hello, I'm Icaro Rocha 👋</h1>
 
 ### About me 😁
-- My name is Icaro, known as Pato;
+- My name is Icaro, also known as Pato;
 - I live in Montes Claros, Minas Gerais, Brazil;
 - I am a Fullstack Web Developer;
 - I love to learn new things and solve interesting problems;
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/icaromiguel/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://patogordo.dev/">
+  <a href="https://imrocha.dev/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6B62FF.svg?&style=for-the-badge&" />
   </a>
 </div>
