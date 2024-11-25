@@ -4,7 +4,6 @@
 - My name is Icaro, also known as Pato;
 - I live in Montes Claros, Minas Gerais, Brazil;
 - I am a Fullstack Web Developer;
-- I love to learn new things and solve interesting problems;
 - My current Favorite Stack: TypeScript, Vue 3, Nuxt 3, NestJs, Postgres, Prisma, NodeJS & Docker.
   
 ### Contacts 📱
